@@ -1,1 +1,12 @@
 # ai_model_prompt_test
+- [Summary English](summary_english.md)
+- [Summary Chinese](summary_chinese.md)
+- [Conditions English](conditions_english.md)
+- [Conditions Chinese](conditions_chinese.md)
+- [Conditions2 English](conditions2_english.md)
+- [Conditions2 Chinese](conditions2_chinese.md)
+- [Generate JSON English](generate_json_english.md)
+- [Generate JSON Chinese](generate_json_chinese.md)
+- [Let Model Think](model_think.md)
+- [Check Solution 1](solution1.md)
+- [Check Solution 2](solution2.md)
