@@ -1,4 +1,16 @@
 # ai_model_prompt_test
+## Introduction
+Use the prompts learned from [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) to test the performance of some LLMs:
+- OpenAI families
+- New Bing
+- Claude
+- Bard
+- you.com
+- 文心一言
+- 星火认知
+
+## Test Records
+
 - [Summary English](summary_english.md)
 - [Summary Chinese](summary_chinese.md)
 - [Conditions English](conditions_english.md)
