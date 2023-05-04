@@ -1,5 +1,9 @@
 ## Prompt
-生成一个包含三本编造的书籍的列表，以及它们的作者和书籍的体裁。 以JSON格式输出，每本书包含以下键值： book_id, name, author, genre。仅输出JSON数据，不进行解释。
+```
+生成一个包含三本编造的书籍的列表，以及它们的作者和书籍的体裁。 
+以JSON格式输出，每本书包含以下键值： book_id, name, author, genre。
+仅输出JSON数据，不进行解释。
+```
 
 ## Answers
 
